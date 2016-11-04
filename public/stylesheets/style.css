@@ -1,0 +1,5 @@
+body {font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;}
+a {color: #00B7FF;}
+.header-top{padding-left: 20; padding-right: 20}
+.header-logo{float: left}
+.header-banner{width: 728px; height: 90px; border: 1px solid black; float: right}
